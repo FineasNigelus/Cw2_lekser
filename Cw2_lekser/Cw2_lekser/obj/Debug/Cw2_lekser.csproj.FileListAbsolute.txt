@@ -1,0 +1,7 @@
+C:\Users\zajac\Desktop\Translatory\Cw2_lekser\Cw2_lekser\bin\Debug\Cw2_lekser.exe.config
+C:\Users\zajac\Desktop\Translatory\Cw2_lekser\Cw2_lekser\bin\Debug\Cw2_lekser.exe
+C:\Users\zajac\Desktop\Translatory\Cw2_lekser\Cw2_lekser\bin\Debug\Cw2_lekser.pdb
+C:\Users\zajac\Desktop\Translatory\Cw2_lekser\Cw2_lekser\obj\Debug\Cw2_lekser.csprojAssemblyReference.cache
+C:\Users\zajac\Desktop\Translatory\Cw2_lekser\Cw2_lekser\obj\Debug\Cw2_lekser.csproj.CoreCompileInputs.cache
+C:\Users\zajac\Desktop\Translatory\Cw2_lekser\Cw2_lekser\obj\Debug\Cw2_lekser.exe
+C:\Users\zajac\Desktop\Translatory\Cw2_lekser\Cw2_lekser\obj\Debug\Cw2_lekser.pdb
